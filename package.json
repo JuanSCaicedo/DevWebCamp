@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "sweetalert2": "11.4.8",
-    "swiper": "^11.1.15",
+    "swiper": "^12.1.2",
     "webpack-stream": "^7.0.0"
   }
 }
